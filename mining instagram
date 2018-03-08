@@ -3,4 +3,4 @@ urllib2
 json
 client_id = '04820ab9946e41e2b5f1118ef66f60df'         
 client_secret = 'af586e9ba534417da88f72151370dee4'     
-redirect_uri = 'http://localhost' 
+redirect_uri = 'https://gondowangi.com' 
